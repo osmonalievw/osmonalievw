@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<div align="center">
+  <img src="./pixelart.gif" alt="Animated Header" width="100%">
+</div>
 <!--
 **osmonalievw/osmonalievw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
