@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Razak%20Osmonaliev&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Enginer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Razak%20Osmonaliev&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=osmonalievw">
@@ -6,21 +6,20 @@
   </a>
 </p>
 
-<img src="sweetsmilehttps://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjhiNXFqamRkdmE1dmdsMDJtNzJwdjR1aWdmYTY3dzk2cnFuY3JkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MSemvqMIRY3jMcvpd2/giphy.gif" alt="Banner" width="100%" />
-
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/osmonalievw">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=osmonalievw&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="osmonalievw's GitHub Stats" />
   </a>
+  <br />
   <img src="https://streak-stats.demolab.com/?user=osmonalievw&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="osmonalievw's GitHub Streak" width="49%" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=osmonalievw&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Razak Osmonaliev's GitHub Trophies" />
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=osmonalievw&theme=tokyonight&radius=10" alt="osmonalievw's Activity Graph" />
-</p>
+</p> -->
 
 
 ## 🛠️ Languages & Tools
